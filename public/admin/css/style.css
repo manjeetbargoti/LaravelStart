@@ -1,0 +1,12 @@
+/* This is custom style sheet */
+.websiteLogoView img {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    border-radius: 5px;;
+}
+
+.websiteFaviconView img {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    border-radius: 5px;;
+}
